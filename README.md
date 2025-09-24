@@ -233,6 +233,4 @@ Build YokMain from the source and install dependencies:
 
 Run the project with:
 
-    ```sh
     ❯ otw
-    ```
